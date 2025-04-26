@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**pixilcode/pixilcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Technologies ⚙️
+- Rust
+- Ocaml
+- Typescript/JavaScript
+- HTML/CSS
+- Linux/Bash
+- Git
 
-Here are some ideas to get you started:
+### 🔎 Interests 🔎
+- Programming language design
+- UI/UX
+- Web design
+- Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 Experience 🧭
+- **Researching left-recursive, ambiguous parsers** at **BYU**
+- **Cleaning up tech debt** and **helping migrate to encrypted data** at **Lucid Software**
+- **Building web pages and APIs** at **BYU Office of IT**
+- **Migrating authentication protocols** at **BYU Office of IT**
