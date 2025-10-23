@@ -13,6 +13,7 @@
 - Cybersecurity
 
 ### 🧭 Experience 🧭
+- Building the [Oneil programming language and language server](https://github.com/careweather/oneil) at *Care Weather*
 - Researching left-recursive, ambiguous parsers at *BYU*
 - Cleaning up tech debt and helping migrate to encrypted data at *Lucid Software*
 - Building web pages and APIs at *BYU Office of IT*
